@@ -6,6 +6,8 @@
  
 聊聊面试中的 Java 线程池 https://mp.weixin.qq.com/s/U9Ksm7fZr5ANNCSYiaulow
 没那么简单的线程池 https://mp.weixin.qq.com/s/DJPuYVhRGRXkkUGMuDdrSw
+为什么 Redis 单线程却能支撑高并发？ https://mp.weixin.qq.com/s/ff0HjsCdntWcij5CiasIog
+记录一次成都阿里一面的经历 https://mp.weixin.qq.com/s/Z8UzhMORur5HxMK-s6Sz3w
 
 
 
@@ -21,18 +23,6 @@
 
 
 
-
-分布式事物
-分布式事物的存在，就是解决数据不一致的情况。
-分布式系统中有这么一个广为流传的理论：CAP 定理
-对于一个分布式计算系统来说，不可能同时满足以下三点：
-	•一致性（Consistency）
-	•可用性（Availability）
-	•分区容错性（Partition tolerance）
-由于分区容错性（P）是必须保证的，那么我们分布式系统就更多是在一致性（CP） 和可用性（AP）上做平衡了，只能同时满足两个条件。
-其实，大家想想，ZK 是不是就是严格实现了 CP ，而 Eureka 则是保证了 AP。
-
-其实分布式事物强调的就是一致性。
 
 分布式调用中超时时间太长的问题
 通信协议上要有版本号
@@ -43,36 +33,6 @@
 
 无论是内部还是外部的微服务，在服务端我们都应该设计一个全局异常处理类，用来统一封装系统在抛出异常时面向调用方的返回信息。
 理论上我们可以在这个全局异常处理类中，捕获处理服务接口业务层抛出的所有异常并统一响应，只是那样会让全局异常处理类变得非常臃肿，所以从最佳实践上考虑，我们一般会为内部和外部接口分别设计一个统一面向调用方的异常对象
-
-
-
-常用的几种线程池
-单个线程: Executors.newSingleThreadExecutor();
-缓存线程: Executors.newCachedThreadPool();
-固定线程Executors.newFixedThreadPool(2);
-定时线程: Executors.newScheduledThreadPool(3);
-
-核心 ThreadPoolExecutor
-ThreadPoolExecutor 继承 AbstractExecutorService；AbstractExecutorService 实现 ExecutorService， ExecutorService 继承 Executor
-public ThreadPoolExecutor(int corePoolSize,
-						  int maximumPoolSize,
-						  long keepAliveTime,
-						  TimeUnit unit,
-						  BlockingQueue<Runnable> workQueue,
-						  ThreadFactory threadFactory,
-						  RejectedExecutionHandler handler) {...}
-corePoolSize : 核心线程数的大小
-maximumPoolSize : 线程池中允许的最大线程数
-keepAliveTime : 空闲线程允许的最大的存活时间
-unit : 存活时间的单位
-workQueue : 阻塞任务队列
-threadFactory : 线程工厂用来创建线程
-handler : 拒绝策略，针对当队列满了时新来任务的处理方式
-
-源码分析
-根据源码可以发现整个线程池大致分为 3 个部分，1. 是创建 worker 线程，2. 添加任务到 workQueue; 3.worker 线程执行具体任务
-
-
 
 
 
