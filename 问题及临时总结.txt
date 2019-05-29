@@ -19,13 +19,13 @@
 面试一线大厂？那这道题目你必须得会！ https://mp.weixin.qq.com/s/Q9rMcsX_sDYbdyBOvveBEg
 刚出炉的一套面试题(JAVA岗) https://mp.weixin.qq.com/s/vdrWBmsqZ_brljn8QmN__w
 分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
-
-用图示和代码理解JVM
-
-
-
+互联网公司的面试官是如何360°无死角考察候选人（上） https://mp.weixin.qq.com/s/PfGqCfQd22sS6HdaNGLB_A
+互联网公司面试官是如何360°无死角考察候选人的？（下） https://mp.weixin.qq.com/s/q5ZDglixFv9rz5M9DPFRiA
+Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
 
 
+
+Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg
 
 
 
@@ -46,55 +46,6 @@
 通信协议上要有版本号
 在服务框架切换为Mina的版本上线后，发布服务的应用重启时出现一个问题，就是发现重启后集群中的机器负载严重不均，排查发现是由于这个版本采用是服务的调用方会通过硬件负载均衡去建立到服务发布方的连接，而且是单个的长连接，由于是通过硬件负载均衡建连，意味着服务调用方其实看到的都是同一个地址，这也就导致了当服务发布方重启时，服务调用方重连就会集中的连到存活的机器上，连接还是长连，因此就导致了负载的不均衡现象。
 服务框架在做了一年多以后，某个版本中出现了一个严重bug，然后我们就希望能通知到用了这个版本的应用紧急升级，在这个时候悲催的发现一个问题是我们压根就不知道生产环境中哪些应用和机器部署了这个版本
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
