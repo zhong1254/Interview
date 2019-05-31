@@ -31,6 +31,14 @@ Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxK
 拿到阿里offer的朋友，列出了面试复习大纲 https://mp.weixin.qq.com/s/DzDJTFZX3w9zHm5Ndz3F-Q
 浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
 BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVhSIUH3_wrz_SfOw
+深入理解 TCP 握手分手全过程 https://mp.weixin.qq.com/s/7GRgL0k2hNTsO8Sw_wpFkw
+RocketMQ集群消费大体过程  https://mp.weixin.qq.com/s/h5Z_ngU02iDq-yzEDUwchA
+把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
+最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
+Spring Cloud 终于按捺不住推出了自己的服务网关 Gateway  https://mp.weixin.qq.com/s/tGyHhD2-01vVrL27JFwfgg
+
+如何实现大整数相乘？（上） https://mp.weixin.qq.com/s/VnwlYVbLmEdIKDcSH7Zm2A
+如何实现大整数相乘？（下） https://mp.weixin.qq.com/s/E6KCw9FwMzCBf5v6yGzocQ
 
 
 
@@ -42,10 +50,21 @@ BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVh
 
 
 
-分布式调用中超时时间太长的问题
-通信协议上要有版本号
-在服务框架切换为Mina的版本上线后，发布服务的应用重启时出现一个问题，就是发现重启后集群中的机器负载严重不均，排查发现是由于这个版本采用是服务的调用方会通过硬件负载均衡去建立到服务发布方的连接，而且是单个的长连接，由于是通过硬件负载均衡建连，意味着服务调用方其实看到的都是同一个地址，这也就导致了当服务发布方重启时，服务调用方重连就会集中的连到存活的机器上，连接还是长连，因此就导致了负载的不均衡现象。
-服务框架在做了一年多以后，某个版本中出现了一个严重bug，然后我们就希望能通知到用了这个版本的应用紧急升级，在这个时候悲催的发现一个问题是我们压根就不知道生产环境中哪些应用和机器部署了这个版本
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
