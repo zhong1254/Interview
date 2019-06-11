@@ -50,6 +50,71 @@ Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.w
 不改一行代码定位线上性能问题 https://mp.weixin.qq.com/s/g8X94SJErDlTlhGQS31jtg
 美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
 RPC 服务器之【多进程描述符传递】高阶模型 https://mp.weixin.qq.com/s/lKQuRhMaW6bBZiWTVvgImA
+面试阿里，携程，小红书，美团，网易 https://mp.weixin.qq.com/s/6lMoYvdKENL9mMPT_uTxRA
+
+Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
+短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
+从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
+设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/Xr5Me6H_TGhGFTYMeUZh9A
+40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -70,6 +135,58 @@ RPC 服务器之【多进程描述符传递】高阶模型 https://mp.weixin.qq.
 
 
 leecode：代码性能查询
+
+
+微服务 边界问题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
