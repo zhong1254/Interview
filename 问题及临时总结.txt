@@ -57,8 +57,8 @@ Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com
 从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
 设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/Xr5Me6H_TGhGFTYMeUZh9A
 40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
-
-
+深入源码分析Java线程池的实现原理 https://mp.weixin.qq.com/s/LExpStGw7XXp0M1E_T0yKA
+分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
 
 
 
