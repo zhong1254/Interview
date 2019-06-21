@@ -2,162 +2,217 @@
 小程序支付 https://www.jianshu.com/p/209b9dce0c8d
 	https://cloud.tencent.com/edu/learning/
 
- https://github.com/macrozheng/mall 电商系统
- 
-聊聊面试中的 Java 线程池 https://mp.weixin.qq.com/s/U9Ksm7fZr5ANNCSYiaulow
-没那么简单的线程池 https://mp.weixin.qq.com/s/DJPuYVhRGRXkkUGMuDdrSw
-线程池中你不容错过的一些细节 https://mp.weixin.qq.com/s/SpxYhfExN-GwTYflkhvKRg
-为什么 Redis 单线程却能支撑高并发？ https://mp.weixin.qq.com/s/ff0HjsCdntWcij5CiasIog
-记录一次成都阿里一面的经历 https://mp.weixin.qq.com/s/Z8UzhMORur5HxMK-s6Sz3w
-一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！ https://mp.weixin.qq.com/s/y-7HMPhUNHrLxfFLHdTkVw
-『并发包入坑指北』之阻塞队列 https://mp.weixin.qq.com/s/jTG69bP_Wy4rb72cCfpB3g
-加解密
-深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
-一文带你轻松搞懂事务隔离级别(图文详解) https://mp.weixin.qq.com/s/oUOH-7MIMPqPmqPEbDA__g
-装饰者模式在JDK和Mybatis中是怎么应用的？https://mp.weixin.qq.com/s/bPnpDL9XMMXcs5Qt9LP5iw
-谈谈怎么做【服务隔离】 https://mp.weixin.qq.com/s/nWCiFqxY0H89aYe6SvJTXg
-面试一线大厂？那这道题目你必须得会！ https://mp.weixin.qq.com/s/Q9rMcsX_sDYbdyBOvveBEg
-刚出炉的一套面试题(JAVA岗) https://mp.weixin.qq.com/s/vdrWBmsqZ_brljn8QmN__w
-分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
-互联网公司的面试官是如何360°无死角考察候选人（上） https://mp.weixin.qq.com/s/PfGqCfQd22sS6HdaNGLB_A
-互联网公司面试官是如何360°无死角考察候选人的？（下） https://mp.weixin.qq.com/s/q5ZDglixFv9rz5M9DPFRiA
-Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
-工厂模式 https://mp.weixin.qq.com/s/4bbVjf-_7B-tn82g7XaCFA
-聊聊Spring中的那些扩展机制 https://mp.weixin.qq.com/s/zv9K5lVGTUpsWb4_fuXC-g
+https://github.com/macrozheng/mall 电商系统
 
-Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg
-长连接的心跳及重连设计 https://mp.weixin.qq.com/s/Inj51cF5Q7_tpUh04hXZgQ
+
+
+为什么线程池的底层数据接口采用HashSet来实现
+
+
+深入理解线程通信 https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483730&idx=1&sn=1c48f1bee4f2eea04b5dd2779645efac&chksm=e8190f92df6e86842d085cfee1e31b8e437f86d9fe29fc515cf32fdbf141729705dd35f0ce6d&scene=21#wechat_redirect
 深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
-拿到阿里offer的朋友，列出了面试复习大纲 https://mp.weixin.qq.com/s/DzDJTFZX3w9zHm5Ndz3F-Q
-浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
-BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVhSIUH3_wrz_SfOw
 深入理解 TCP 握手分手全过程 https://mp.weixin.qq.com/s/7GRgL0k2hNTsO8Sw_wpFkw
-RocketMQ集群消费大体过程  https://mp.weixin.qq.com/s/h5Z_ngU02iDq-yzEDUwchA
 把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
-最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
-Spring Cloud 终于按捺不住推出了自己的服务网关 Gateway  https://mp.weixin.qq.com/s/tGyHhD2-01vVrL27JFwfgg
-
-如何实现大整数相乘？（上） https://mp.weixin.qq.com/s/VnwlYVbLmEdIKDcSH7Zm2A
-如何实现大整数相乘？（下） https://mp.weixin.qq.com/s/E6KCw9FwMzCBf5v6yGzocQ
-
-并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
-Redisson实现Redis分布式锁的N种姿势 https://mp.weixin.qq.com/s/jDaQ7TPgqWEatyadhO3uRg
-Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.weixin.qq.com/s/RlGT8Hmn5qJEnWDsn7sFog
-阿里员工的Java问题排查工具单 https://mp.weixin.qq.com/s/Bpsz-9jvYl4PG8b6_TByDQ
-如何判断一个元素在亿级数据中是否存在？ https://mp.weixin.qq.com/s/Weh8YhWRpCChuA1wm5mDsA
-一篇文章带你深入理解Zookeeper  https://mp.weixin.qq.com/s/G34veIOO4CuK4cYeHQEtlw
-分享一些 Kafka 消费数据的小经验 https://mp.weixin.qq.com/s/R9gc3ZG450K6jQgVHp5Vqw
-不改一行代码定位线上性能问题 https://mp.weixin.qq.com/s/g8X94SJErDlTlhGQS31jtg
-美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
-RPC 服务器之【多进程描述符传递】高阶模型 https://mp.weixin.qq.com/s/lKQuRhMaW6bBZiWTVvgImA
-面试阿里，携程，小红书，美团，网易 https://mp.weixin.qq.com/s/6lMoYvdKENL9mMPT_uTxRA
-
-Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
-短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
-从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
-设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/Xr5Me6H_TGhGFTYMeUZh9A
-40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
-深入源码分析Java线程池的实现原理 https://mp.weixin.qq.com/s/LExpStGw7XXp0M1E_T0yKA
-分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
-Redis，它能管理上亿对象 https://mp.weixin.qq.com/s/UOqD5WOUr-l7cFNvDDDSEA
-设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/lSBtKT6MgOHXivuJyRIH7Q
-Spring Cloud Gateway重试机制 https://mp.weixin.qq.com/s/C6MV-eKjSaDOv5QmIbgthA
 一文带你理解Java中Lock的实现原理 https://mp.weixin.qq.com/s/R84gQNYIpXBLzubUizMi5Q
-IOC 之深入理解 Spring IoC https://mp.weixin.qq.com/s/go4XC3G6-a5sMqGcghEGtw
 深入分析synchronized实现原理 https://mp.weixin.qq.com/s/nU0M3QVE209S79bCrrwrSg
-分库分表后如何部署上线 https://mp.weixin.qq.com/s/L_TvLNTaRPpXytlxAUlC9A
 Java并发编程包中atomic的实现原理 https://mp.weixin.qq.com/s/sZGFRtcFGUqFKLvI96_KIQ
-深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
-什么是二叉堆 https://mp.weixin.qq.com/s/e1hcvNEBq3TRoDS3GBrqFA
-kafka为什么这么优秀(一) https://mp.weixin.qq.com/s/JPKYPazb6zJVwzVnncEdEg
-kafka为什么这么优秀(二) https://mp.weixin.qq.com/s/jgd3e_XnMw2Aluj9olJIFQ
 从字节码层面，解析 Java 布尔型的实现原理 https://mp.weixin.qq.com/s/KNXuSDdoNivpwJuN-adj-A
-什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
-搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
-Spring Cloud Gateway 结合配置中心限流 https://mp.weixin.qq.com/s/Xw9o41bzRHNcipXTpWe1Jw
-可能是把Java内存区域讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/1O0j94t0mie_uJEbJYipTQ
-深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
-线上服务器内存分析及问题排查 https://mp.weixin.qq.com/s/oeWf1CeM4xcVzhYfcEl1Gg
-什么是快速排序？ https://mp.weixin.qq.com/s/xlnikYCz8AwJnIBFfQ-KuQ
 再有人问你synchronized是什么，就把这篇文章发给他。 https://mp.weixin.qq.com/s/GOwgJwcSBHGg5ZxY7cAXuQ
-Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
 Java中枚举的线程安全性及序列化问题 https://mp.weixin.qq.com/s/FBd__cIYoTGTMnZGYri7-g
 HashMap? ConcurrentHashMap? https://mp.weixin.qq.com/s/Z1X6f9ZZMcFN0k4G4IziQw
-
-从构建分布式秒杀系统聊聊分布式锁 https://mp.weixin.qq.com/s/Ke_CFztprzqvVZ8QKqlPbw
-什么是鸡尾酒排序？ https://mp.weixin.qq.com/s/JQ3rGnXa700ebmEoBkrS0Q
-深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
 Java的并发编程中的多线程问题到底是怎么回事儿？ https://mp.weixin.qq.com/s/8GG0AYxOu6N6T7VGrp1f2A
-RPC在企业服务中的核心价值 https://mp.weixin.qq.com/s/xmJbHAMvnXt8OGm4-5HH8w
 白话TCP拥塞控制：运粮的河道堵塞了怎么办？ https://mp.weixin.qq.com/s/kjhWoGQmo-wJlYYZsFlXrQ
 一个想休息的线程：JVM到底是怎么处理锁的？怎么不让我阻塞呢？ https://mp.weixin.qq.com/s/N6HeEjZgho8fzvsgZKq8hQ
 所有和Java中代理有关的知识点都在这 https://mp.weixin.qq.com/s/tKQI68Ts1KBQDEUBWNPBIQ
 当我们在读写Socket时，我们究竟在读写什么？ https://mp.weixin.qq.com/s/g6rMIhzZVrRwcfTMZJ9AQA
-这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
-再有人问你Java内存模型是什么，你就这么讲。 https://mp.weixin.qq.com/s/D1fRllGFyDxpmr-CNWJh7A
 跟着动画学习TCP三次握手和四次挥手 https://mp.weixin.qq.com/s/nfFzD5Fkv1vOExxAJi8xTQ
-黑客攻防日记 https://mp.weixin.qq.com/s/3ESte7nWLMKPe8QAfzWtlA
-一个著名的任务调度系统是怎么设计的？ https://mp.weixin.qq.com/s/pkkNb_pAp7NJfSuTvmOBWg
-
 Java中的事务——全局事务与本地事务 https://mp.weixin.qq.com/s/DjF8oN84WgcrwhwuUzlI8g
 Java中的事务——JDBC事务和JTA事务 https://mp.weixin.qq.com/s/QToXYvPzIBW36vAPqp6Ciw
 对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
-线程和线程池  https://mp.weixin.qq.com/s/cuxUYt5a2owyd2SVd9lJ8w
-为什么分布式一定要有redis? https://mp.weixin.qq.com/s/yFNlpZN-hmTat1Z15kuYxg
 两道面试题，带你解析Java类加载机制 https://mp.weixin.qq.com/s/D58euuNgeH5Zox_YaL0S1w
 Java虚拟机的Heap监狱 https://mp.weixin.qq.com/s/lNqrm1Zl8n54Btx6Jnm-Fg
-漫画：如何用Zookeeper实现分布式锁？ https://mp.weixin.qq.com/s/utQmiu3W-CYipCNEMY9Jrw
 一个java内存泄漏的排查案例 https://mp.weixin.qq.com/s/j9HTxsuNwESFqmprpWbYfw
 一个故事讲完进程、线程和协程 https://mp.weixin.qq.com/s/xLWFqUd-EACi5TZ7-CkNPQ
-什么是分布式锁？ https://mp.weixin.qq.com/s/-AFOUTW5DgZ0zi3tPjqXuA
-Servlet：我还活着呢！ https://mp.weixin.qq.com/s/y6pBU2RyXXdiXAQzp-JroQ
 HashMap中傻傻分不清楚的那些概念 https://mp.weixin.qq.com/s/fDNl87LPY09jbvy_YnM_Sg
-面对海量请求，缓存设计还应该考虑哪些问题？ https://mp.weixin.qq.com/s/ff6X9NJdsmgGeR1QOz9sKg
 如何优雅的「打断」你的线程? https://mp.weixin.qq.com/s/8eq0_vV3VFRmXD13MDH4Qg
+不懂volatile，面不了P6 https://mp.weixin.qq.com/s/PeLlR95EaWFawvL5dMyJpg
+一个故事讲明白线程的私家领地： https://mp.weixin.qq.com/s/N7JYiLSaSXE2qVfzht7EOw
+Java面试必问，ThreadLocal终极篇 https://mp.weixin.qq.com/s/_gQ0uJTTk4Ws8fDojK61og
+面试必问的volatile，你了解多少 https://mp.weixin.qq.com/s/usFDQhB5Ji5tb4Ff-MdV1w
+一次单例设计模式面试失败经验 https://mp.weixin.qq.com/s/ZksHnPvQvYAHxEqserbulw
+什么是CAP定理？ https://mp.weixin.qq.com/s/fbeF_bXp4yxNKh9SakKT2g
+加解密
+面向对象圣经 https://mp.weixin.qq.com/s/J7Fqf-56dgXA9qoxcm20Zw
+漫画：什么是CAS机制 https://mp.weixin.qq.com/s/MB3gwXe9CaMS3Skw4-0wAg
+Java中的增强for循环的实现原理与坑 https://mp.weixin.qq.com/s/xj7T5WA8MxOjq7bSC112Gw
+为什么说Java中只有值传递  https://mp.weixin.qq.com/s/AjHXL1T6ga53KNFhlsPxpA
+
+
+Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
+深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
+可能是把Java内存区域讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/1O0j94t0mie_uJEbJYipTQ
+再有人问你Java内存模型是什么，你就这么讲。 https://mp.weixin.qq.com/s/D1fRllGFyDxpmr-CNWJh7A
+我是一个“栈” https://mp.weixin.qq.com/s/54OhQyY28nc2dgKls3k4XQ
+
+BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVhSIUH3_wrz_SfOw
+并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
+什么是二叉堆 https://mp.weixin.qq.com/s/e1hcvNEBq3TRoDS3GBrqFA
+什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
+什么是快速排序？ https://mp.weixin.qq.com/s/xlnikYCz8AwJnIBFfQ-KuQ
+什么是鸡尾酒排序？ https://mp.weixin.qq.com/s/JQ3rGnXa700ebmEoBkrS0Q
+漫画：什么是拜占庭将军问题？ https://mp.weixin.qq.com/s/4oXDWHbs5_gtVWrnxJs_UQ
+漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
+
+
+装饰者模式在JDK和Mybatis中是怎么应用的？https://mp.weixin.qq.com/s/bPnpDL9XMMXcs5Qt9LP5iw
+工厂模式 https://mp.weixin.qq.com/s/4bbVjf-_7B-tn82g7XaCFA
+
+
+Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
+为什么 Redis 单线程却能支撑高并发？ https://mp.weixin.qq.com/s/ff0HjsCdntWcij5CiasIog
+聊聊Spring中的那些扩展机制 https://mp.weixin.qq.com/s/zv9K5lVGTUpsWb4_fuXC-g
+Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg
+RocketMQ集群消费大体过程  https://mp.weixin.qq.com/s/h5Z_ngU02iDq-yzEDUwchA
+Spring Cloud 终于按捺不住推出了自己的服务网关 Gateway  https://mp.weixin.qq.com/s/tGyHhD2-01vVrL27JFwfgg
+Redisson实现Redis分布式锁的N种姿势 https://mp.weixin.qq.com/s/jDaQ7TPgqWEatyadhO3uRg
+一篇文章带你深入理解Zookeeper  https://mp.weixin.qq.com/s/G34veIOO4CuK4cYeHQEtlw
+分享一些 Kafka 消费数据的小经验 https://mp.weixin.qq.com/s/R9gc3ZG450K6jQgVHp5Vqw
+短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
+从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
+Redis，它能管理上亿对象 https://mp.weixin.qq.com/s/UOqD5WOUr-l7cFNvDDDSEA
+Spring Cloud Gateway重试机制 https://mp.weixin.qq.com/s/C6MV-eKjSaDOv5QmIbgthA
+IOC 之深入理解 Spring IoC https://mp.weixin.qq.com/s/go4XC3G6-a5sMqGcghEGtw
+深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
+kafka为什么这么优秀(一) https://mp.weixin.qq.com/s/JPKYPazb6zJVwzVnncEdEg
+kafka为什么这么优秀(二) https://mp.weixin.qq.com/s/jgd3e_XnMw2Aluj9olJIFQ
+搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
+Spring Cloud Gateway 结合配置中心限流 https://mp.weixin.qq.com/s/Xw9o41bzRHNcipXTpWe1Jw
+深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
+Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
 69 个经典 Spring 面试题和答案  https://mp.weixin.qq.com/s/BgXid3IImDfLJGmCNTvrzw
 深度解析某头条的一道面试题 https://mp.weixin.qq.com/s/stz5tBpMpKvHMKenmG1gYg
-漫画：什么是拜占庭将军问题？ https://mp.weixin.qq.com/s/4oXDWHbs5_gtVWrnxJs_UQ
-大家都在说的分布式系统到底是什么？ https://mp.weixin.qq.com/s/901qwpcTs21zLf0dirhkVQ
-聊聊阿里面试的三个层次 https://mp.weixin.qq.com/s/Zowr1lBDoCmrt2oKKBLZWw
-如何实现抢红包算法？ https://mp.weixin.qq.com/s/NhFUi2a_uZhm-CcuWJJngA
-Java中的增强for循环的实现原理与坑 https://mp.weixin.qq.com/s/xj7T5WA8MxOjq7bSC112Gw
-分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
-Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
-漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
-为什么说Java中只有值传递  https://mp.weixin.qq.com/s/AjHXL1T6ga53KNFhlsPxpA
-漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
-什么是好代码？https://mp.weixin.qq.com/s/1ZfMYdm2R4WvwIhW0GzhAw
-我是一个“栈” https://mp.weixin.qq.com/s/54OhQyY28nc2dgKls3k4XQ
 Java帝国之安全争斗 https://mp.weixin.qq.com/s/afp9s8vvGGq9qxCPCjf6eg
-什么是分布式事务？ https://mp.weixin.qq.com/s/ommhe8LGMulIEFmV5-cOKw
-去BAT，你应该要看一看的面试经验总结 https://mp.weixin.qq.com/s/RIdDU_UfU3pcEudLDqUZuw
 阅读源码的三种境界 https://mp.weixin.qq.com/s/jHlF6sZqG6Yhg006GfkgKw
-阿里大佬分享面试体会 https://mp.weixin.qq.com/s/MhSxeAb1oszt593jGwVq4g
 HDFS的诞生 https://mp.weixin.qq.com/s/upUfceBRDXoCO0m4z_zW0A
 一道丧心病狂的java面试题 https://mp.weixin.qq.com/s/hqegyw96mZ-L5fFbHyYJUg
 漫画：“架构师”小赵的故事 https://mp.weixin.qq.com/s/Lr8MvTS0-WFPQ18AHSkw8A
 漫画：什么是服务熔断？ https://mp.weixin.qq.com/s/Mx1iD3SDCH-jIGS0yUrgyQ
 Lambda 表达式有何用处？ https://mp.weixin.qq.com/s/449fe8AckdzMcMjzoX3bkQ
 漫画：什么是八皇后问题？ https://mp.weixin.qq.com/s/BsNaHudoL4gt00teTy7uRA
-用户增长怎么做？我在Uber和摩拜的实战经验 https://mp.weixin.qq.com/s/mWXEAcpL4SxpABmvJXpVlg
-什么是CAP定理？ https://mp.weixin.qq.com/s/fbeF_bXp4yxNKh9SakKT2g
 漫画：什么是数据仓库？ https://mp.weixin.qq.com/s/9oFnb36veGV1EqTtMI07fQ
-一个故事讲明白线程的私家领地： https://mp.weixin.qq.com/s/N7JYiLSaSXE2qVfzht7EOw
-程序员们，你知道面试官是如何考察你的软素质吗？ https://mp.weixin.qq.com/s/U0vliOdeXpDdgvGSHxHRCg
-Java面试必问，ThreadLocal终极篇 https://mp.weixin.qq.com/s/_gQ0uJTTk4Ws8fDojK61og
-面试必问的volatile，你了解多少 https://mp.weixin.qq.com/s/usFDQhB5Ji5tb4Ff-MdV1w
 大厂十年研发经历，总结了12开发条经验（受益匪浅） https://mp.weixin.qq.com/s/E89qutd7xE_RWST3EWJk_g
-漫画：什么是微服务？ https://mp.weixin.qq.com/s/t5hipw36_HWwGMpyyt1s5A
-Java面试，你应该准备这些知识 https://mp.weixin.qq.com/s/iIK2tvXIT7CjDduM8VmKgw
-阿里面试回来，想和 Java 程序员谈一谈 https://mp.weixin.qq.com/s/dzZP0UfwzsfECbTP59uZ8w
-面向对象圣经 https://mp.weixin.qq.com/s/J7Fqf-56dgXA9qoxcm20Zw
-漫画：什么是CAS机制 https://mp.weixin.qq.com/s/MB3gwXe9CaMS3Skw4-0wAg
 什么是架构师？ https://mp.weixin.qq.com/s/c0EXYyvj_ac0lV1JIa20Fg
-不懂volatile，面不了P6 https://mp.weixin.qq.com/s/PeLlR95EaWFawvL5dMyJpg
-一次单例设计模式面试失败经验 https://mp.weixin.qq.com/s/ZksHnPvQvYAHxEqserbulw
-面阿里扑街了，能怪谁 https://mp.weixin.qq.com/s/KWYtoWZok0F8gfTdRzxoGw
 震惊！阿里P7告诉你内部培训和个人发展的内幕 https://mp.weixin.qq.com/s/9ftY69fNf2uhBm9GoVoYRQ
 阿里P8分享技术大牛养成指南 https://mp.weixin.qq.com/s/F3e36yy40auBBVTuOLYoDA
+
+
+谈谈怎么做【服务隔离】 https://mp.weixin.qq.com/s/nWCiFqxY0H89aYe6SvJTXg
+分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
+浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
+分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
+分库分表后如何部署上线 https://mp.weixin.qq.com/s/L_TvLNTaRPpXytlxAUlC9A
+线上服务器内存分析及问题排查 https://mp.weixin.qq.com/s/oeWf1CeM4xcVzhYfcEl1Gg
+一文带你轻松搞懂事务隔离级别(图文详解) https://mp.weixin.qq.com/s/oUOH-7MIMPqPmqPEbDA__g
+什么是分布式事务？ https://mp.weixin.qq.com/s/ommhe8LGMulIEFmV5-cOKw
+漫画：什么是服务熔断？ https://mp.weixin.qq.com/s/Mx1iD3SDCH-jIGS0yUrgyQ
+漫画：什么是微服务？ https://mp.weixin.qq.com/s/t5hipw36_HWwGMpyyt1s5A
+RPC 服务器之【多进程描述符传递】高阶模型 https://mp.weixin.qq.com/s/lKQuRhMaW6bBZiWTVvgImA
+深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
+RPC在企业服务中的核心价值 https://mp.weixin.qq.com/s/xmJbHAMvnXt8OGm4-5HH8w
+这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
+黑客攻防日记 https://mp.weixin.qq.com/s/3ESte7nWLMKPe8QAfzWtlA
+什么是分布式锁？ https://mp.weixin.qq.com/s/-AFOUTW5DgZ0zi3tPjqXuA
+Servlet：我还活着呢！ https://mp.weixin.qq.com/s/y6pBU2RyXXdiXAQzp-JroQ
+面对海量请求，缓存设计还应该考虑哪些问题？ https://mp.weixin.qq.com/s/ff6X9NJdsmgGeR1QOz9sKg
+漫画：如何用Zookeeper实现分布式锁？ https://mp.weixin.qq.com/s/utQmiu3W-CYipCNEMY9Jrw
+为什么分布式一定要有redis? https://mp.weixin.qq.com/s/yFNlpZN-hmTat1Z15kuYxg
+大家都在说的分布式系统到底是什么？ https://mp.weixin.qq.com/s/901qwpcTs21zLf0dirhkVQ
+分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
+Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
+漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
+什么是好代码？https://mp.weixin.qq.com/s/1ZfMYdm2R4WvwIhW0GzhAw
+40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
+长连接的心跳及重连设计 https://mp.weixin.qq.com/s/Inj51cF5Q7_tpUh04hXZgQ
+
+
+阿里员工的Java问题排查工具单 https://mp.weixin.qq.com/s/Bpsz-9jvYl4PG8b6_TByDQ
+如何实现大整数相乘？（上） https://mp.weixin.qq.com/s/VnwlYVbLmEdIKDcSH7Zm2A
+如何实现大整数相乘？（下） https://mp.weixin.qq.com/s/E6KCw9FwMzCBf5v6yGzocQ
+如何判断一个元素在亿级数据中是否存在？ https://mp.weixin.qq.com/s/Weh8YhWRpCChuA1wm5mDsA
+不改一行代码定位线上性能问题 https://mp.weixin.qq.com/s/g8X94SJErDlTlhGQS31jtg
+设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/Xr5Me6H_TGhGFTYMeUZh9A
+设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/lSBtKT6MgOHXivuJyRIH7Q
+从构建分布式秒杀系统聊聊分布式锁 https://mp.weixin.qq.com/s/Ke_CFztprzqvVZ8QKqlPbw
+一个著名的任务调度系统是怎么设计的？ https://mp.weixin.qq.com/s/pkkNb_pAp7NJfSuTvmOBWg
+面试一线大厂？那这道题目你必须得会！ https://mp.weixin.qq.com/s/Q9rMcsX_sDYbdyBOvveBEg
+如何实现抢红包算法？ https://mp.weixin.qq.com/s/NhFUi2a_uZhm-CcuWJJngA
+用户增长怎么做？我在Uber和摩拜的实战经验 https://mp.weixin.qq.com/s/mWXEAcpL4SxpABmvJXpVlg
+
+
+去BAT，你应该要看一看的面试经验总结 https://mp.weixin.qq.com/s/RIdDU_UfU3pcEudLDqUZuw
+阿里大佬分享面试体会 https://mp.weixin.qq.com/s/MhSxeAb1oszt593jGwVq4g
+阿里面试回来，想和 Java 程序员谈一谈 https://mp.weixin.qq.com/s/dzZP0UfwzsfECbTP59uZ8w
+程序员们，你知道面试官是如何考察你的软素质吗？ https://mp.weixin.qq.com/s/U0vliOdeXpDdgvGSHxHRCg
+聊聊阿里面试的三个层次 https://mp.weixin.qq.com/s/Zowr1lBDoCmrt2oKKBLZWw
+面阿里扑街了，能怪谁 https://mp.weixin.qq.com/s/KWYtoWZok0F8gfTdRzxoGw
+Java面试，你应该准备这些知识 https://mp.weixin.qq.com/s/iIK2tvXIT7CjDduM8VmKgw
+刚出炉的一套面试题(JAVA岗) https://mp.weixin.qq.com/s/vdrWBmsqZ_brljn8QmN__w
+记录一次成都阿里一面的经历 https://mp.weixin.qq.com/s/Z8UzhMORur5HxMK-s6Sz3w
+一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！ https://mp.weixin.qq.com/s/y-7HMPhUNHrLxfFLHdTkVw
+互联网公司的面试官是如何360°无死角考察候选人（上） https://mp.weixin.qq.com/s/PfGqCfQd22sS6HdaNGLB_A
+互联网公司面试官是如何360°无死角考察候选人的？（下） https://mp.weixin.qq.com/s/q5ZDglixFv9rz5M9DPFRiA
+拿到阿里offer的朋友，列出了面试复习大纲 https://mp.weixin.qq.com/s/DzDJTFZX3w9zHm5Ndz3F-Q
+Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.weixin.qq.com/s/RlGT8Hmn5qJEnWDsn7sFog
+美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
+面试阿里，携程，小红书，美团，网易 https://mp.weixin.qq.com/s/6lMoYvdKENL9mMPT_uTxRA
+最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
+
+
+1.倒排索引
+
+2.讲讲redis里面的哈希表？   
+
+3.happen-before的规则？
+
+4.volatile修饰符，synchronize锁 
+
+5.java单例模式的实现，懒汉、饿汉？
+
+6.进程与线程的区别，多进程和多线程的区别？
+
+7.HashMap原理，为什么用红黑树，红黑树的特点？
+
+8.快排时间空间复杂度，最好最坏的情况，优化方案？
+
+9.TCP的拥塞控制，具体过程是怎么样的？UDP有拥塞控制吗？如何解决？
+
+10.讲讲了解的垃圾回收算法和回收器，什么时候执行STOP THE WORLD？
+
+11.了解Go语言吗？
+
+六、头条三面（算法+场景题）
+
+1.LRU算法实现（伪代码）
+
+2.链表倒数第K个数（讲思路）
+
+3.一堆螺丝和螺母用最短时间匹配（代码实现）
+
+4.求每天浏览页面的新用户（Hive QL实现）
+
+5.求抖音小视频每日点击量最高的10个（Hash + 最大堆）
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -166,62 +221,6 @@ springcloud + k8s搭建微服务
 平台集成Service Mesh功能，客户搭建起微服务来很简单
 
 
-三目运算符
-对于条件表达式b?x:y，一个条件表达式从不会既计算x，又计算y。条件运算符是右结合的，也就是说，从右向左分组计算。例如，a?b:c?d:e将按a?b:（c?d:e）执行。
-    Map<String, Boolean> map = new HashMap<>();
-    Boolean b = map != null ? map.get("test") : false;
-	运行以上的代码会报空指针
-	
-这段反编译之后
-   Map map = new HashMap();
-   Boolean b = Boolean.valueOf(map == null ? false : ((Boolean)map.get("test")).booleanValue());
-	这是一种自动拆箱的操作。
-	
-这段代码为什么会自动拆箱呢？这其实是三目运算符的语法规范。
-	简单的来说就是：当第二，第三位操作数分别为基本类型和对象时，其中的对象就会拆箱为基本类型进行操作。
-	结果就是：由于使用了三目运算符，并且第二、第三位操作数分别是基本类型和对象。所以对对象进行拆箱操作，由于该对象为null，所以在拆箱过程中调用null.booleanValue()的时候就报了NPE（空指针）。
-	如果代码这么写，就不会报错：
-	Map<String,Boolean> map =  new HashMap<String, Boolean>();
-	Boolean b = (map!=null ? map.get("test") : Boolean.FALSE);
-	就是保证了三目运算符的第二第三位操作数都为对象类型。这样就不会发生自动拆箱操作
-
-关系型数据库为什么能活这么久？
-我有着坚实的数学基础：其实所谓关系，在数学上的定义就是笛卡尔积的一个子集。
-我很直观：就是个表格
-使用简单：一般都只需要简单的SQL便可查出
-对数据完整性的支持很好
-我支持事务！
-范式：想要使用我们关系型数据库，必须得遵守一定的规则，这些规则就是“范式”。
-	第一范式是基本要求，即每个列都是不分割的数据项， 如果连这个都满足不了，还是洗洗睡吧。
-	第二范式要求实体属性要完全依赖主键，不能依赖部分主键。
-	第三范式就是一个表中不能包含其它表中已包含的非主关键字信息。不严谨地说就是这个表只包含其他表的ID。
-做“数据的集成”
-
-存在问题：高并发，大流量存在瓶颈。对分布式系统支持不好, 难于组成集群。
-
-
-
-
-
-
-协程
-Java中线程具有五种状态：
-初始化
-可运行
-运行中
-阻塞
-销毁
-这五种状态的转化关系如下：
-----------有图
-但是，线程不同状态之间的转化是谁来实现的呢？是JVM吗？
-并不是。JVM需要通过操作系统内核中的TCB（Thread Control Block）模块来改变线程的状态，这一过程需要耗费一定的CPU资源。
-
-什么是协程
-
-协程，英文Coroutines，是一种比线程更加轻量级的存在。正如一个进程可以拥有多个线程一样，一个线程也可以拥有多个协程
-最重要的是，协程不是被操作系统内核所管理，而完全是由程序所控制（也就是在用户态执行）。
-这样带来的好处就是性能得到了很大的提升，不会像线程切换那样消耗资源。
-由于Java的原生语法中并没有实现协程（某些开源框架实现了协程，但是很少被使用）
 
 
 
@@ -237,72 +236,7 @@ Java中线程具有五种状态：
 
 
 
-一个线程OOM，进程里其他线程还能运行么？
-答案是还能运行
-在多线程环境下，每个线程拥有一个栈和一个程序计数器。栈和程序计数器用来保存线程的执行历史和线程的执行状态，是线程私有的资源。其他的资源（比如堆、地址空间、全局变量）是由同一个进程内的多个线程共享。
-当一个线程抛出OOM异常后，即使是堆内存溢出，它所占据的内存资源会全部被释放掉，从而不会影响其他线程的运行！如果是栈溢出，结论也是一样。
-JvisualVM看堆的变化
 
-
-
-Thread.sleep
-并不释放对象锁。也就是说如果有synchronized同步快，其他线程仍然不能访问共享数据。
-
-public class TestSync2 implements Runnable {
-    int b = 100;          
-
-    synchronized void m1() throws InterruptedException {
-        b = 1000;
-        Thread.sleep(500); //6
-        System.out.println("b=" + b);
-    }
-
-    synchronized void m2() throws InterruptedException {
-        Thread.sleep(250); //5
-        b = 2000;
-    }
-
-    public static void main(String[] args) throws InterruptedException {
-        TestSync2 tt = new TestSync2();
-        Thread t = new Thread(tt);  //1
-        t.start(); //2
-
-        tt.m2(); //3
-        System.out.println("main thread b=" + tt.b); //4
-    }
-
-    @Override
-    public void run() {
-        try {
-            m1();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-
-}
-程序输出结果
-main thread b=2000
-b=1000
-或
-main thread b=1000
-b=1000
-
-分析流程
-
-java 都是从main方法执行的，上面说了有2个线程，但是这里就算修改线程优先级也没用，优先级是在2个程序都还没有执行的时候才有先后，现在这个代码一执行，主线程main已经执行了。
-
-对于属性变量 int b =100由于使用了synchronized也不会存在可见性问题（也没有必要在说使用volatile申明）。
-
-当执行1步骤的时候（Thread t = new Thread(tt); //1）线程是new状态，还没有开始工作。
-
-当执行2步骤的时候（t.start(); //2）当调用start方法，这个线程才正真被启动，进入runnable状态，runnable状态表示可以执行，一切准备就绪了，但是并不表示一定在cpu上面执行，有没有真正执行取决服务cpu的调度。
-
-在这里当执行3步骤必定是先获得锁（由于start需要调用native方法，并且在用完成之后在一切准备就绪了，但是并不表示一定在cpu上面执行，有没有真正执行取决服务cpu的调度，之后才会调用run方法，执行m1方法）。
-
-这里其实2个synchronized方法里面的Thread.sheep其实要不要是无所谓的，估计是就为混淆增加难度。3步骤执行的时候其实很快子线程也准备好了，但是由于synchronized的存在，并且是作用同一对象，所以子线程就只有必须等待了。由于main方法里面执行顺序是顺序执行的，所以必须是步骤3执行完成之后才可以到4步骤，而由于3步骤执行完成，子线程就可以执行m1了。
-
-这里就存在一个多线程谁先获取到问题，如果4步骤先获取那么main thread b=2000，如果子线程m1获取到可能就b已经赋值成1000或者还没有来得及赋值4步骤就输出了可能结果就是main thread b=1000或者main thread b=2000，在这里如果把6步骤去掉那么b=执行在前和main thread b=在前就不确定了。但是由于6步骤存在，所以不管怎么都是main thread b=在前面，那么等于1000还是2000看情况，之后b=1000是一定固定的了。
 
 
 
@@ -318,40 +252,10 @@ java 都是从main方法执行的，上面说了有2个线程，但是这里就�
 渐进时间复杂度用大写O来表示，所以也被称为大O表示法。
 
 
-
-什么是动态规划？ 
-动态规划英文 Dynamic Programming，是求解决策过程最优化的数学方法，后来沿用到了编程领域
+ 
 
 
 
-问题排查
-
-尝试远程登录服务器：
-
-查看Nginx 和 PHP-FPM，ps -ef|grep xxxx
-
-查看系统剩余内存 free -m
-
-查看CPU使用情况 top
-
-查看Nginx错误日志 tail -f error.log
-
-查看日志容量 ll -h
-
-查看并发连接数 netstat -nat|grep ESTABLISHED|wc -l
-
-一顿骚操作之后，并没有什么异常，内存和CPU平稳，Nginx和PHP 进程没问题。然后分别重启了一下 PHP 和 Nginx，开始网站还可以访问，进入社区首页就被卡死。
-
-
-
-DDOS防护
-Nginx优化，最好隐藏其版本号
-页面优化，隐藏一些头部信息，避免黑客扫描到
-IP黑名单
-IP日访问次数
-限制并发数：限制单个IP的并发数，限制总并发数，这里建议大家使用漏桶算法限流，来整形流量请求。
-配置CDN
-配置缓存
 
 
 
