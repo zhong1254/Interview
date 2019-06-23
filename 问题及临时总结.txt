@@ -3,17 +3,15 @@
 	https://cloud.tencent.com/edu/learning/
 
 https://github.com/macrozheng/mall 电商系统
-
+深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
+把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
 
 
 为什么线程池的底层数据接口采用HashSet来实现
 
 
-深入理解线程通信 https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483730&idx=1&sn=1c48f1bee4f2eea04b5dd2779645efac&chksm=e8190f92df6e86842d085cfee1e31b8e437f86d9fe29fc515cf32fdbf141729705dd35f0ce6d&scene=21#wechat_redirect
-深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
-深入理解 TCP 握手分手全过程 https://mp.weixin.qq.com/s/7GRgL0k2hNTsO8Sw_wpFkw
-把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
-一文带你理解Java中Lock的实现原理 https://mp.weixin.qq.com/s/R84gQNYIpXBLzubUizMi5Q
+
+
 深入分析synchronized实现原理 https://mp.weixin.qq.com/s/nU0M3QVE209S79bCrrwrSg
 Java并发编程包中atomic的实现原理 https://mp.weixin.qq.com/s/sZGFRtcFGUqFKLvI96_KIQ
 从字节码层面，解析 Java 布尔型的实现原理 https://mp.weixin.qq.com/s/KNXuSDdoNivpwJuN-adj-A
