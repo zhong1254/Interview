@@ -5,31 +5,33 @@
 https://github.com/macrozheng/mall 电商系统
 深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
 把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
+对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
+什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
 
-我们一般可以用 javap 命令来实现反汇编工作。但这次我们使用另一个工具，即 asmtools。它是 OpenJDK 提供的另一个反汇编工具。
 
 
 为什么线程池的底层数据接口采用HashSet来实现
-volatile修饰的变量为社么不能保证其原子性
 再有人问你synchronized是什么，就把这篇文章发给他。 https://mp.weixin.qq.com/s/GOwgJwcSBHGg5ZxY7cAXuQ
 Java面试必问，ThreadLocal终极篇 https://mp.weixin.qq.com/s/_gQ0uJTTk4Ws8fDojK61og
 加解密
-什么是Java内存模型 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121599&idx=1&sn=42b2cfabfb3057ac6c09026a8b9656cd&chksm=f36bb85ec41c31489e461a53e78f2959f0224c87c312724f420265b70e67e4efdae2331155aa&scene=21#wechat_redirect
+微服务架构 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650120438&idx=1&sn=24d92409f5f6e7062f5236d51d9bdf90&scene=21#wechat_redirect
+关于分布式事务、两阶段提交协议、三阶提交协议 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=402387528&idx=2&sn=f89ded5a927db3cdec0d006e1a261573&scene=21#wechat_redirect
 
 
 
-Java中的事务——全局事务与本地事务 https://mp.weixin.qq.com/s/DjF8oN84WgcrwhwuUzlI8g
-Java中的事务——JDBC事务和JTA事务 https://mp.weixin.qq.com/s/QToXYvPzIBW36vAPqp6Ciw
-对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
+
+
+
+
+
+
+
+
+
+
 两道面试题，带你解析Java类加载机制 https://mp.weixin.qq.com/s/D58euuNgeH5Zox_YaL0S1w
 Java虚拟机的Heap监狱 https://mp.weixin.qq.com/s/lNqrm1Zl8n54Btx6Jnm-Fg
 一个java内存泄漏的排查案例 https://mp.weixin.qq.com/s/j9HTxsuNwESFqmprpWbYfw
-如何优雅的「打断」你的线程? https://mp.weixin.qq.com/s/8eq0_vV3VFRmXD13MDH4Qg
-一个故事讲明白线程的私家领地： https://mp.weixin.qq.com/s/N7JYiLSaSXE2qVfzht7EOw
-
-
-
-
 Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
 深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
 可能是把Java内存区域讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/1O0j94t0mie_uJEbJYipTQ
@@ -38,7 +40,7 @@ Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com
 BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVhSIUH3_wrz_SfOw
 并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
 什么是二叉堆 https://mp.weixin.qq.com/s/e1hcvNEBq3TRoDS3GBrqFA
-什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
+
 什么是快速排序？ https://mp.weixin.qq.com/s/xlnikYCz8AwJnIBFfQ-KuQ
 什么是鸡尾酒排序？ https://mp.weixin.qq.com/s/JQ3rGnXa700ebmEoBkrS0Q
 漫画：什么是拜占庭将军问题？ https://mp.weixin.qq.com/s/4oXDWHbs5_gtVWrnxJs_UQ
@@ -46,8 +48,7 @@ BAT 经典算法笔试题： 镜像二叉树 https://mp.weixin.qq.com/s/TVP_-HVh
 
 
 装饰者模式在JDK和Mybatis中是怎么应用的？https://mp.weixin.qq.com/s/bPnpDL9XMMXcs5Qt9LP5iw
-工厂模式 https://mp.weixin.qq.com/s/4bbVjf-_7B-tn82g7XaCFA
-
+GOF 23种设计模式
 
 Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
 为什么 Redis 单线程却能支撑高并发？ https://mp.weixin.qq.com/s/ff0HjsCdntWcij5CiasIog
