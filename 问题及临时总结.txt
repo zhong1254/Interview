@@ -6,24 +6,20 @@ https://github.com/macrozheng/mall 电商系统
 深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
 把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
 
+我们一般可以用 javap 命令来实现反汇编工作。但这次我们使用另一个工具，即 asmtools。它是 OpenJDK 提供的另一个反汇编工具。
+
 
 为什么线程池的底层数据接口采用HashSet来实现
-
-
-
-
-深入分析synchronized实现原理 https://mp.weixin.qq.com/s/nU0M3QVE209S79bCrrwrSg
-Java并发编程包中atomic的实现原理 https://mp.weixin.qq.com/s/sZGFRtcFGUqFKLvI96_KIQ
-从字节码层面，解析 Java 布尔型的实现原理 https://mp.weixin.qq.com/s/KNXuSDdoNivpwJuN-adj-A
+volatile修饰的变量为社么不能保证其原子性
 再有人问你synchronized是什么，就把这篇文章发给他。 https://mp.weixin.qq.com/s/GOwgJwcSBHGg5ZxY7cAXuQ
-Java中枚举的线程安全性及序列化问题 https://mp.weixin.qq.com/s/FBd__cIYoTGTMnZGYri7-g
-HashMap? ConcurrentHashMap? https://mp.weixin.qq.com/s/Z1X6f9ZZMcFN0k4G4IziQw
+
+
+
+
 Java的并发编程中的多线程问题到底是怎么回事儿？ https://mp.weixin.qq.com/s/8GG0AYxOu6N6T7VGrp1f2A
-白话TCP拥塞控制：运粮的河道堵塞了怎么办？ https://mp.weixin.qq.com/s/kjhWoGQmo-wJlYYZsFlXrQ
 一个想休息的线程：JVM到底是怎么处理锁的？怎么不让我阻塞呢？ https://mp.weixin.qq.com/s/N6HeEjZgho8fzvsgZKq8hQ
 所有和Java中代理有关的知识点都在这 https://mp.weixin.qq.com/s/tKQI68Ts1KBQDEUBWNPBIQ
 当我们在读写Socket时，我们究竟在读写什么？ https://mp.weixin.qq.com/s/g6rMIhzZVrRwcfTMZJ9AQA
-跟着动画学习TCP三次握手和四次挥手 https://mp.weixin.qq.com/s/nfFzD5Fkv1vOExxAJi8xTQ
 Java中的事务——全局事务与本地事务 https://mp.weixin.qq.com/s/DjF8oN84WgcrwhwuUzlI8g
 Java中的事务——JDBC事务和JTA事务 https://mp.weixin.qq.com/s/QToXYvPzIBW36vAPqp6Ciw
 对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
@@ -36,11 +32,9 @@ HashMap中傻傻分不清楚的那些概念 https://mp.weixin.qq.com/s/fDNl87LPY
 不懂volatile，面不了P6 https://mp.weixin.qq.com/s/PeLlR95EaWFawvL5dMyJpg
 一个故事讲明白线程的私家领地： https://mp.weixin.qq.com/s/N7JYiLSaSXE2qVfzht7EOw
 Java面试必问，ThreadLocal终极篇 https://mp.weixin.qq.com/s/_gQ0uJTTk4Ws8fDojK61og
-面试必问的volatile，你了解多少 https://mp.weixin.qq.com/s/usFDQhB5Ji5tb4Ff-MdV1w
 一次单例设计模式面试失败经验 https://mp.weixin.qq.com/s/ZksHnPvQvYAHxEqserbulw
 什么是CAP定理？ https://mp.weixin.qq.com/s/fbeF_bXp4yxNKh9SakKT2g
 加解密
-面向对象圣经 https://mp.weixin.qq.com/s/J7Fqf-56dgXA9qoxcm20Zw
 漫画：什么是CAS机制 https://mp.weixin.qq.com/s/MB3gwXe9CaMS3Skw4-0wAg
 Java中的增强for循环的实现原理与坑 https://mp.weixin.qq.com/s/xj7T5WA8MxOjq7bSC112Gw
 为什么说Java中只有值传递  https://mp.weixin.qq.com/s/AjHXL1T6ga53KNFhlsPxpA
