@@ -28,9 +28,7 @@ dump分析 JAVA CORE PostgreSql Docker ELK MQ SpringCloud Zookeeper
 
 
 
-Redis，它能管理上亿对象 https://mp.weixin.qq.com/s/UOqD5WOUr-l7cFNvDDDSEA
-Spring Cloud Gateway重试机制 https://mp.weixin.qq.com/s/C6MV-eKjSaDOv5QmIbgthA
-短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
+
 深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
 深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
 Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
@@ -50,7 +48,6 @@ IOC 之深入理解 Spring IoC https://mp.weixin.qq.com/s/go4XC3G6-a5sMqGcghEGtw
 Spring Cloud Gateway 结合配置中心限流 https://mp.weixin.qq.com/s/Xw9o41bzRHNcipXTpWe1Jw
 
 
-69 个经典 Spring 面试题和答案  https://mp.weixin.qq.com/s/BgXid3IImDfLJGmCNTvrzw
 深度解析某头条的一道面试题 https://mp.weixin.qq.com/s/stz5tBpMpKvHMKenmG1gYg
 Java帝国之安全争斗 https://mp.weixin.qq.com/s/afp9s8vvGGq9qxCPCjf6eg
 阅读源码的三种境界 https://mp.weixin.qq.com/s/jHlF6sZqG6Yhg006GfkgKw
