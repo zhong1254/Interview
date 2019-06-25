@@ -7,7 +7,7 @@ https://github.com/macrozheng/mall 电商系统
 把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
 对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
 什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
-
+漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
 
 
 为什么线程池的底层数据接口采用HashSet来实现
@@ -16,59 +16,40 @@ Java面试必问，ThreadLocal终极篇 https://mp.weixin.qq.com/s/_gQ0uJTTk4Ws8
 加解密
 微服务架构 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650120438&idx=1&sn=24d92409f5f6e7062f5236d51d9bdf90&scene=21#wechat_redirect
 关于分布式事务、两阶段提交协议、三阶提交协议 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=402387528&idx=2&sn=f89ded5a927db3cdec0d006e1a261573&scene=21#wechat_redirect
-
-
-
-
-
-
-
-
-
-
-
-
-
-一个java内存泄漏的排查案例 https://mp.weixin.qq.com/s/j9HTxsuNwESFqmprpWbYfw
 Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
-深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
-可能是把Java内存区域讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/1O0j94t0mie_uJEbJYipTQ
-再有人问你Java内存模型是什么，你就这么讲。 https://mp.weixin.qq.com/s/D1fRllGFyDxpmr-CNWJh7A
-我是一个“栈” https://mp.weixin.qq.com/s/54OhQyY28nc2dgKls3k4XQ
-
 并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
-什么是二叉堆 https://mp.weixin.qq.com/s/e1hcvNEBq3TRoDS3GBrqFA
-
-什么是快速排序？ https://mp.weixin.qq.com/s/xlnikYCz8AwJnIBFfQ-KuQ
-什么是鸡尾酒排序？ https://mp.weixin.qq.com/s/JQ3rGnXa700ebmEoBkrS0Q
-漫画：什么是拜占庭将军问题？ https://mp.weixin.qq.com/s/4oXDWHbs5_gtVWrnxJs_UQ
-漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
-
-
-
+深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
 GOF 23种设计模式
 
 Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
-为什么 Redis 单线程却能支撑高并发？ https://mp.weixin.qq.com/s/ff0HjsCdntWcij5CiasIog
+dump分析 JAVA CORE PostgreSql Docker ELK MQ SpringCloud Zookeeper
+
+
+
+
+
+Redis，它能管理上亿对象 https://mp.weixin.qq.com/s/UOqD5WOUr-l7cFNvDDDSEA
+Spring Cloud Gateway重试机制 https://mp.weixin.qq.com/s/C6MV-eKjSaDOv5QmIbgthA
+短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
+深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
+深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
+Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
+
+分享一些 Kafka 消费数据的小经验 https://mp.weixin.qq.com/s/R9gc3ZG450K6jQgVHp5Vqw
+kafka为什么这么优秀(一) https://mp.weixin.qq.com/s/JPKYPazb6zJVwzVnncEdEg
+kafka为什么这么优秀(二) https://mp.weixin.qq.com/s/jgd3e_XnMw2Aluj9olJIFQ
+从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
+
 聊聊Spring中的那些扩展机制 https://mp.weixin.qq.com/s/zv9K5lVGTUpsWb4_fuXC-g
 Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg
 RocketMQ集群消费大体过程  https://mp.weixin.qq.com/s/h5Z_ngU02iDq-yzEDUwchA
 Spring Cloud 终于按捺不住推出了自己的服务网关 Gateway  https://mp.weixin.qq.com/s/tGyHhD2-01vVrL27JFwfgg
-Redisson实现Redis分布式锁的N种姿势 https://mp.weixin.qq.com/s/jDaQ7TPgqWEatyadhO3uRg
 一篇文章带你深入理解Zookeeper  https://mp.weixin.qq.com/s/G34veIOO4CuK4cYeHQEtlw
-分享一些 Kafka 消费数据的小经验 https://mp.weixin.qq.com/s/R9gc3ZG450K6jQgVHp5Vqw
-短小精悍之 Redis 命令行工具有趣的罕见用法 https://mp.weixin.qq.com/s/0YO4ZXEoVvtUpXHx4Uuxnw
-从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
-Redis，它能管理上亿对象 https://mp.weixin.qq.com/s/UOqD5WOUr-l7cFNvDDDSEA
-Spring Cloud Gateway重试机制 https://mp.weixin.qq.com/s/C6MV-eKjSaDOv5QmIbgthA
 IOC 之深入理解 Spring IoC https://mp.weixin.qq.com/s/go4XC3G6-a5sMqGcghEGtw
-深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
-kafka为什么这么优秀(一) https://mp.weixin.qq.com/s/JPKYPazb6zJVwzVnncEdEg
-kafka为什么这么优秀(二) https://mp.weixin.qq.com/s/jgd3e_XnMw2Aluj9olJIFQ
 搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
 Spring Cloud Gateway 结合配置中心限流 https://mp.weixin.qq.com/s/Xw9o41bzRHNcipXTpWe1Jw
-深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
-Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
+
+
 69 个经典 Spring 面试题和答案  https://mp.weixin.qq.com/s/BgXid3IImDfLJGmCNTvrzw
 深度解析某头条的一道面试题 https://mp.weixin.qq.com/s/stz5tBpMpKvHMKenmG1gYg
 Java帝国之安全争斗 https://mp.weixin.qq.com/s/afp9s8vvGGq9qxCPCjf6eg
