@@ -8,6 +8,18 @@ https://github.com/macrozheng/mall 电商系统
 对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
 什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
 漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
+深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
+深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
+搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
+分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
+浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
+分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
+线上服务器内存分析及问题排查 https://mp.weixin.qq.com/s/oeWf1CeM4xcVzhYfcEl1Gg
+黑客攻防日记 https://mp.weixin.qq.com/s/3ESte7nWLMKPe8QAfzWtlA
+深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
+
+
+
 
 
 为什么线程池的底层数据接口采用HashSet来实现
@@ -20,32 +32,53 @@ Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com
 并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
 深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
 GOF 23种设计模式
-
 Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
 dump分析 JAVA CORE PostgreSql Docker ELK MQ SpringCloud Zookeeper
-
-
-
-
-
-
-深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
-深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
 Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
-
-分享一些 Kafka 消费数据的小经验 https://mp.weixin.qq.com/s/R9gc3ZG450K6jQgVHp5Vqw
 kafka为什么这么优秀(一) https://mp.weixin.qq.com/s/JPKYPazb6zJVwzVnncEdEg
 kafka为什么这么优秀(二) https://mp.weixin.qq.com/s/jgd3e_XnMw2Aluj9olJIFQ
-从源码分析如何优雅的使用 Kafka 生产者 https://mp.weixin.qq.com/s/0qWSQS4bZFxqg3-4h5C-7w
 
-聊聊Spring中的那些扩展机制 https://mp.weixin.qq.com/s/zv9K5lVGTUpsWb4_fuXC-g
-Spring IOC知识点一网打尽！ https://mp.weixin.qq.com/s/TYftOpe6J1Y4EDNDxKKqXg
-RocketMQ集群消费大体过程  https://mp.weixin.qq.com/s/h5Z_ngU02iDq-yzEDUwchA
-Spring Cloud 终于按捺不住推出了自己的服务网关 Gateway  https://mp.weixin.qq.com/s/tGyHhD2-01vVrL27JFwfgg
-一篇文章带你深入理解Zookeeper  https://mp.weixin.qq.com/s/G34veIOO4CuK4cYeHQEtlw
-IOC 之深入理解 Spring IoC https://mp.weixin.qq.com/s/go4XC3G6-a5sMqGcghEGtw
-搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
-Spring Cloud Gateway 结合配置中心限流 https://mp.weixin.qq.com/s/Xw9o41bzRHNcipXTpWe1Jw
+kafka如何保证消息不丢失
+Sharding-JDBC
+分库分表后如何部署上线 https://mp.weixin.qq.com/s/L_TvLNTaRPpXytlxAUlC9A
+
+分布式系统所有问题解决思路概括
+分布式一致性session
+分布式锁
+分布式事务
+分库分表中间件及部署
+分布式服务网关
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RPC在企业服务中的核心价值 https://mp.weixin.qq.com/s/xmJbHAMvnXt8OGm4-5HH8w
+这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
+什么是分布式锁？ https://mp.weixin.qq.com/s/-AFOUTW5DgZ0zi3tPjqXuA
+Servlet：我还活着呢！ https://mp.weixin.qq.com/s/y6pBU2RyXXdiXAQzp-JroQ
+面对海量请求，缓存设计还应该考虑哪些问题？ https://mp.weixin.qq.com/s/ff6X9NJdsmgGeR1QOz9sKg
+为什么分布式一定要有redis? https://mp.weixin.qq.com/s/yFNlpZN-hmTat1Z15kuYxg
+大家都在说的分布式系统到底是什么？ https://mp.weixin.qq.com/s/901qwpcTs21zLf0dirhkVQ
+分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
+Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
+漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
+什么是好代码？https://mp.weixin.qq.com/s/1ZfMYdm2R4WvwIhW0GzhAw
+40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
+长连接的心跳及重连设计 https://mp.weixin.qq.com/s/Inj51cF5Q7_tpUh04hXZgQ
 
 
 深度解析某头条的一道面试题 https://mp.weixin.qq.com/s/stz5tBpMpKvHMKenmG1gYg
@@ -60,35 +93,6 @@ Lambda 表达式有何用处？ https://mp.weixin.qq.com/s/449fe8AckdzMcMjzoX3bk
 漫画：什么是数据仓库？ https://mp.weixin.qq.com/s/9oFnb36veGV1EqTtMI07fQ
 大厂十年研发经历，总结了12开发条经验（受益匪浅） https://mp.weixin.qq.com/s/E89qutd7xE_RWST3EWJk_g
 什么是架构师？ https://mp.weixin.qq.com/s/c0EXYyvj_ac0lV1JIa20F
-
-谈谈怎么做【服务隔离】 https://mp.weixin.qq.com/s/nWCiFqxY0H89aYe6SvJTXg
-分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
-浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
-分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
-分库分表后如何部署上线 https://mp.weixin.qq.com/s/L_TvLNTaRPpXytlxAUlC9A
-线上服务器内存分析及问题排查 https://mp.weixin.qq.com/s/oeWf1CeM4xcVzhYfcEl1Gg
-一文带你轻松搞懂事务隔离级别(图文详解) https://mp.weixin.qq.com/s/oUOH-7MIMPqPmqPEbDA__g
-什么是分布式事务？ https://mp.weixin.qq.com/s/ommhe8LGMulIEFmV5-cOKw
-漫画：什么是服务熔断？ https://mp.weixin.qq.com/s/Mx1iD3SDCH-jIGS0yUrgyQ
-漫画：什么是微服务？ https://mp.weixin.qq.com/s/t5hipw36_HWwGMpyyt1s5A
-RPC 服务器之【多进程描述符传递】高阶模型 https://mp.weixin.qq.com/s/lKQuRhMaW6bBZiWTVvgImA
-深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
-RPC在企业服务中的核心价值 https://mp.weixin.qq.com/s/xmJbHAMvnXt8OGm4-5HH8w
-这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
-黑客攻防日记 https://mp.weixin.qq.com/s/3ESte7nWLMKPe8QAfzWtlA
-什么是分布式锁？ https://mp.weixin.qq.com/s/-AFOUTW5DgZ0zi3tPjqXuA
-Servlet：我还活着呢！ https://mp.weixin.qq.com/s/y6pBU2RyXXdiXAQzp-JroQ
-面对海量请求，缓存设计还应该考虑哪些问题？ https://mp.weixin.qq.com/s/ff6X9NJdsmgGeR1QOz9sKg
-漫画：如何用Zookeeper实现分布式锁？ https://mp.weixin.qq.com/s/utQmiu3W-CYipCNEMY9Jrw
-为什么分布式一定要有redis? https://mp.weixin.qq.com/s/yFNlpZN-hmTat1Z15kuYxg
-大家都在说的分布式系统到底是什么？ https://mp.weixin.qq.com/s/901qwpcTs21zLf0dirhkVQ
-分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
-Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
-漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
-什么是好代码？https://mp.weixin.qq.com/s/1ZfMYdm2R4WvwIhW0GzhAw
-40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
-长连接的心跳及重连设计 https://mp.weixin.qq.com/s/Inj51cF5Q7_tpUh04hXZgQ
-
 
 阿里员工的Java问题排查工具单 https://mp.weixin.qq.com/s/Bpsz-9jvYl4PG8b6_TByDQ
 如何实现大整数相乘？（上） https://mp.weixin.qq.com/s/VnwlYVbLmEdIKDcSH7Zm2A
@@ -124,37 +128,22 @@ Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.w
 
 
 1.倒排索引
-
 2.讲讲redis里面的哈希表？   
-
 3.happen-before的规则？
-
 4.volatile修饰符，synchronize锁 
-
 5.java单例模式的实现，懒汉、饿汉？
-
 6.进程与线程的区别，多进程和多线程的区别？
-
 7.HashMap原理，为什么用红黑树，红黑树的特点？
-
 8.快排时间空间复杂度，最好最坏的情况，优化方案？
-
 9.TCP的拥塞控制，具体过程是怎么样的？UDP有拥塞控制吗？如何解决？
-
 10.讲讲了解的垃圾回收算法和回收器，什么时候执行STOP THE WORLD？
-
 11.了解Go语言吗？
 
 六、头条三面（算法+场景题）
-
 1.LRU算法实现（伪代码）
-
 2.链表倒数第K个数（讲思路）
-
 3.一堆螺丝和螺母用最短时间匹配（代码实现）
-
 4.求每天浏览页面的新用户（Hive QL实现）
-
 5.求抖音小视频每日点击量最高的10个（Hash + 最大堆）
 
 
