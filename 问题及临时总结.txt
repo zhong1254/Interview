@@ -19,6 +19,10 @@ https://github.com/macrozheng/mall 电商系统
 深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
 分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
 漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
+阅读源码的三种境界 https://mp.weixin.qq.com/s/jHlF6sZqG6Yhg006GfkgKw
+HDFS的诞生 https://mp.weixin.qq.com/s/upUfceBRDXoCO0m4z_zW0A
+漫画：“架构师”小赵的故事 https://mp.weixin.qq.com/s/Lr8MvTS0-WFPQ18AHSkw8A
+
 
 
 
@@ -49,49 +53,33 @@ Sharding-JDBC
 分库分表中间件及部署
 分布式服务网关
 这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-为什么分布式一定要有redis? https://mp.weixin.qq.com/s/yFNlpZN-hmTat1Z15kuYxg
-
-
 Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
 
-40 道 Dubbo 面试题及答案 https://mp.weixin.qq.com/s/p8g2fA8L2FhTcbF2MHTPNQ
-长连接的心跳及重连设计 https://mp.weixin.qq.com/s/Inj51cF5Q7_tpUh04hXZgQ
 
 
-深度解析某头条的一道面试题 https://mp.weixin.qq.com/s/stz5tBpMpKvHMKenmG1gYg
-Java帝国之安全争斗 https://mp.weixin.qq.com/s/afp9s8vvGGq9qxCPCjf6eg
-阅读源码的三种境界 https://mp.weixin.qq.com/s/jHlF6sZqG6Yhg006GfkgKw
-HDFS的诞生 https://mp.weixin.qq.com/s/upUfceBRDXoCO0m4z_zW0A
-一道丧心病狂的java面试题 https://mp.weixin.qq.com/s/hqegyw96mZ-L5fFbHyYJUg
-漫画：“架构师”小赵的故事 https://mp.weixin.qq.com/s/Lr8MvTS0-WFPQ18AHSkw8A
-漫画：什么是服务熔断？ https://mp.weixin.qq.com/s/Mx1iD3SDCH-jIGS0yUrgyQ
-Lambda 表达式有何用处？ https://mp.weixin.qq.com/s/449fe8AckdzMcMjzoX3bkQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 漫画：什么是八皇后问题？ https://mp.weixin.qq.com/s/BsNaHudoL4gt00teTy7uRA
-漫画：什么是数据仓库？ https://mp.weixin.qq.com/s/9oFnb36veGV1EqTtMI07fQ
-大厂十年研发经历，总结了12开发条经验（受益匪浅） https://mp.weixin.qq.com/s/E89qutd7xE_RWST3EWJk_g
-什么是架构师？ https://mp.weixin.qq.com/s/c0EXYyvj_ac0lV1JIa20F
-
 阿里员工的Java问题排查工具单 https://mp.weixin.qq.com/s/Bpsz-9jvYl4PG8b6_TByDQ
-如何实现大整数相乘？（上） https://mp.weixin.qq.com/s/VnwlYVbLmEdIKDcSH7Zm2A
-如何实现大整数相乘？（下） https://mp.weixin.qq.com/s/E6KCw9FwMzCBf5v6yGzocQ
 如何判断一个元素在亿级数据中是否存在？ https://mp.weixin.qq.com/s/Weh8YhWRpCChuA1wm5mDsA
 不改一行代码定位线上性能问题 https://mp.weixin.qq.com/s/g8X94SJErDlTlhGQS31jtg
 设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/Xr5Me6H_TGhGFTYMeUZh9A
