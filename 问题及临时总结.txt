@@ -63,15 +63,16 @@ kafka集群
 
 
 
+
 zookeeper原理及适用场景
 zookeeper watch机制
 那么要实现Watch，就必须实现org.apache.zookeeper.Watcher接口，并且将实现类的对象传入到可以Watch的方法中。Zookeeper中所有读操作（getData()，getChildren()，exists()）都可以设置Watch选项。Watch事件具有one-time trigger（一次性触发）的特性，如果Watch监视的Znode有变化，那么就会通知设置该Watch的客户端。
 
+锁的类型
+mysql锁的类型
 
 
-
-
-
+线程池核心线程会不会被丢弃
 
 
 
