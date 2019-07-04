@@ -74,6 +74,8 @@ mysql锁的类型
 
 线程池核心线程会不会被丢弃
 
+spring bean的生命周期
+
 
 
 举个特别简单的例子，面试时候常常会问道 StringBuilder和“+” 连接字符串的差别，估计一般人都能答出来，甚至还有同学研究过StringBuilder的源码，但下一个问题如果是“为什么Java中String要设计成 immutable的？和C++中的可变字符串相比，二者的优劣是什么？”
