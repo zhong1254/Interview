@@ -60,25 +60,13 @@ Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhj
 设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/lSBtKT6MgOHXivuJyRIH7Q
 
 kafka集群
-
-
-
-
-zookeeper原理及适用场景
-zookeeper watch机制
-那么要实现Watch，就必须实现org.apache.zookeeper.Watcher接口，并且将实现类的对象传入到可以Watch的方法中。Zookeeper中所有读操作（getData()，getChildren()，exists()）都可以设置Watch选项。Watch事件具有one-time trigger（一次性触发）的特性，如果Watch监视的Znode有变化，那么就会通知设置该Watch的客户端。
-
-锁的类型
-mysql锁的类型
-
-
-线程池核心线程会不会被丢弃
-
 spring bean的生命周期
 
 
 
-举个特别简单的例子，面试时候常常会问道 StringBuilder和“+” 连接字符串的差别，估计一般人都能答出来，甚至还有同学研究过StringBuilder的源码，但下一个问题如果是“为什么Java中String要设计成 immutable的？和C++中的可变字符串相比，二者的优劣是什么？”
+
+
+
 
 阿里
 并发、JVM、分布式、TCP/IP协议
