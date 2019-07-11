@@ -35,8 +35,7 @@ HDFS的诞生 https://mp.weixin.qq.com/s/upUfceBRDXoCO0m4z_zW0A
 Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
 并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
 深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
-GOF 23种设计模式
-Redis 深度历险：核心原理与应用实践  https://github.com/doocs/advanced-java
+
 dump分析 JAVA CORE PostgreSql Docker ELK MQ SpringCloud 
 Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
 
@@ -141,12 +140,6 @@ Object.finalize()
 
 二面有点偏底层和算法
 1、扯了下项目、讲一下项目经历
-2、你们用了redis，redis的底层数据结构了解多少？
-3、知道动态字符串sds的优缺点么？
-注:sds为redis底层数据结构之一
-4、redis的单线程特性有什么优缺点？
-5、用过 Redis 的哪些数据结构, 分别用在什么场景?
-6、你们怎么解决缓存击穿问题的？
 
 三面
 4、解决hash冲突的方法有哪些？
@@ -200,11 +193,7 @@ MyBatis 部分
 如果一个线程 A 先把缓存删除了,然后去更新数据库，那么在它删了缓存还没有更新到数据库的这个中间时间，线程B进来了，发现缓存没有，就去读库，这时候还是读取还是旧的数据，然后又更新到缓存去了。此时A 才把新数据写到数据库。
 此时就产生了一个典型的问题就是“双写不一致”。
 
-19、Redis 中有哪些数据结构
-平常使用得最多的是 String , 还有 List 、Hash、Set、ZSet 。
-没有再问其他的内容。
-但是像Redis 为什么这么快这种问题，我认为你应该要去了解，其他小伙伴经常遇到。也就是多路复用是个什么玩意儿？
-源码
+
 20、这里面试官问 你平常有没有看过一些源码？框架的也行？JDK 的也行。
 
 这过程中还问到了 怎么判断两个对象是否相等？也就是 == 和 equals 的知识点。
@@ -274,13 +263,13 @@ Java并发中的volatile、锁优化、AQS源码；
  JAVA 的复习分为如下几个方向。
 排序算
 
-存储相关：Redis 、Elastic Search、MySQL；
+存储相关：Elastic Search、MySQL；
 框架：Spring，SpringMVC，Spring Boot
 
 你可以看一下Collections 中的mergeSort和sort 方法，你会发现 mergeSort 就是归并排序的实现，而 sort 方法结合了归并排序和插入排序，这样使得 sort 方法最差O(NlogN)最好可以达到O(N)的效果。那么只有你自己理解了排序方法的实现，才能更好的使用 JAVA 中的集合类啊？
 第二个“栗子”，大家都听闻过 TopN 问题吧，经常在面试中遇到请写一下 TopN 的实现，说到算法它就是一个大顶堆，说到 JAVA 它是一个 PriorityQueue 的实现，那么你理解了 TopN 问题，知道他的时间复杂度，优缺点了，那么是不是就可以熟练运用 JAVA 的工具类写更高效的程序了？
 
-第一个“栗子”，使用 Redis 切不可只用他当做 key-value 缓存数据库。小编了解到它的5种基本类型中一种类型叫做 sorted set。sorted set 里 items 内容大于 64 的时候同时使用了 hash 和 skiplist 两种设计实现。这也会为了排序和查找性能做的优化。添加和删除都需要修改 skiplist，所以复杂度为 O(log(n))。 但是如果仅仅是查找元素的话可以直接使用 hash，其复杂度为 O(1) ，其他的 range 操作复杂度一般为 O(log(n))，当然如果是小于 64 的时候，因为是采用了 ziplist 的设计，其时间复杂度为 O(n)。这样以后查询和更新阅读都变得简单，那是不是可以用其实现 TopN 的需求呢？这样类似的需求就不需要你查数据，再在内存里面计算和操作了。比如我们简单的周排行，月排行都可以考虑使用这个数据结构实现，当然并不一定这是最好的解决方案，而是提供了一种解题思路。 
+
 
 另一个“栗子”，PriorityQueue 是优先队列我们上文已经了解，那么 ElasticSearch 的 query 也是用的优先队列分别在每一个分片上面获取，然后再合并优先队列你了解吗？这个“栗子”告诉我们其实算法是想通的，你理解一个便可以举一反三触类旁通。
 
@@ -320,13 +309,6 @@ MySQL锁，悲观锁、乐观锁、排它锁、共享锁、表级锁、行级锁
 JDBC如何实现事务、嵌套事务实现、分布式事务实现；
 SQL的整个解析、执行过程原理、SQL行转列；
 
-Redis
-Redis为什么这么快？redis采用多线程会有哪些问题？
-Redis支持哪几种数据结构；
-Redis跳跃表的问题；
-Redis单进程单线程的Redis如何能够高并发?
-Redis如何使用Redis实现分布式锁？
-Redis分布式锁操作的原子性，Redis内部是如何实现的？
 
 其他
 看过哪些源代码？然后会根据你说的源码问一些细节的问题？（这里主要考察面试者是否对技术有钻研的精神，还是只停留在表面，还是背了几道面经，这个对于很多有强迫症的面试官，如果你连源码都没看过，基本上是会pass掉的，比如我也是这样的！）
@@ -355,8 +337,8 @@ Redis分布式锁操作的原子性，Redis内部是如何实现的？
 这道题一开始用了贪心，但说最坏情况下复杂度太高，后来经过面试官提醒实现了一个O(n)时间复杂度
 
 1.倒排索引
-2.讲讲redis里面的哈希表？   
-3.happen-before的规则？
+  
+
 
 8.快排时间空间复杂度，最好最坏的情况，优化方案？
 9.TCP的拥塞控制，具体过程是怎么样的？UDP有拥塞控制吗？如何解决？
