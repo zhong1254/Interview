@@ -80,15 +80,17 @@ Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhj
 3.一堆螺丝和螺母用最短时间匹配（代码实现）
 5.求抖音小视频每日点击量最高的10个（Hash + 最大堆）
 
-美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
-最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
+
 
 Java 应用性能调优最强实践指南！ https://mp.weixin.qq.com/s/6p-2I07yFOWXgzEM7ew2OA
-
-
-
-
-
+美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
+最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
+阿里，携程，小红书，美团，网易面试题 https://mp.weixin.qq.com/s/6lMoYvdKENL9mMPT_uTxRA
+阿里、拼多多面试经历分享 https://mp.weixin.qq.com/s/Oh43yuEIr5vG4BJ7Nr2s7w
+一份还热乎的蚂蚁金服面经 https://mp.weixin.qq.com/s/y-7HMPhUNHrLxfFLHdTkVw
+Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.weixin.qq.com/s/RlGT8Hmn5qJEnWDsn7sFog
+聊聊阿里面试的三个层次 https://mp.weixin.qq.com/s/Zowr1lBDoCmrt2oKKBLZWw
+美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
 
 
 
