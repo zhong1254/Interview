@@ -1,0 +1,104 @@
+
+小程序支付 https://www.jianshu.com/p/209b9dce0c8d
+	https://cloud.tencent.com/edu/learning/
+
+https://github.com/macrozheng/mall 电商系统
+深度解密HTTP通信细节 https://mp.weixin.qq.com/s/qrP9obd92Z-LxcHJFzblNQ
+把 Map 中的 hash() 分析的最透彻的文章 https://mp.weixin.qq.com/s/8p6pBqWGqxWNDUWUU6i4Ew
+对象并不一定都是在堆上分配内存的。 https://mp.weixin.qq.com/s/UckjBBaurPIhSMSTMzWEkg
+什么是时间复杂度？ https://mp.weixin.qq.com/s/MQrcKt3u1m5uMli08_q9DQ
+漫画：什么是字典序算法？ https://mp.weixin.qq.com/s/lL6YNdkmJOZJ1431ivhxbg
+深入 Redis HyperLogLog 内部数据结构分析 https://mp.weixin.qq.com/s/L_arTkWDcYFsirXB4eT9Rw
+深入 Redis 字典遍历 https://mp.weixin.qq.com/s/qOOkQLD9nuuhGDUEUuw1IQ
+搜索之路：Elasticsearch的诞生 https://mp.weixin.qq.com/s/9eAa3AuaLQAsKoccEmSgnQ
+分布式多中心架构的几点看法 https://mp.weixin.qq.com/s/8pPIZ7Hj3pAvYY_MVuk3kA
+浅析如何设计一个亿级网关 https://mp.weixin.qq.com/s/x_u8Nqw3KYK_Dts5rydB2w
+分库分表技术演进&最佳实践-修订篇 https://mp.weixin.qq.com/s/gOUkKlTEkhKKTfZ-yZM78w
+线上服务器内存分析及问题排查 https://mp.weixin.qq.com/s/oeWf1CeM4xcVzhYfcEl1Gg
+黑客攻防日记 https://mp.weixin.qq.com/s/3ESte7nWLMKPe8QAfzWtlA
+深入理解 RPC 消息协议设计 https://mp.weixin.qq.com/s/Ap2Ls6lbfUi_2m5Go5pFlA
+分布式一致性算法：可能比你想象得更复杂 https://mp.weixin.qq.com/s/thLqnuvk7PST74yCRPcT7w
+漫画：什么是蓝绿部署？ https://mp.weixin.qq.com/s/sdfl6mgHmnj82L8s_12bHQ
+阅读源码的三种境界 https://mp.weixin.qq.com/s/jHlF6sZqG6Yhg006GfkgKw
+HDFS的诞生 https://mp.weixin.qq.com/s/upUfceBRDXoCO0m4z_zW0A
+漫画：“架构师”小赵的故事 https://mp.weixin.qq.com/s/Lr8MvTS0-WFPQ18AHSkw8A
+漫画：什么是八皇后问题？ https://mp.weixin.qq.com/s/BsNaHudoL4gt00teTy7uRA
+如何判断一个元素在亿级数据中是否存在？ https://mp.weixin.qq.com/s/Weh8YhWRpCChuA1wm5mDsA
+不改一行代码定位线上性能问题 https://mp.weixin.qq.com/s/g8X94SJErDlTlhGQS31jtg
+用户增长怎么做？我在Uber和摩拜的实战经验 https://mp.weixin.qq.com/s/mWXEAcpL4SxpABmvJXpVlg
+ElasticSearch在数十亿级别数据下，如何提高查询效率？ https://mp.weixin.qq.com/s/b9KLy1PF_OAy1G5CXedgGg
+
+
+加解密
+微服务架构 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650120438&idx=1&sn=24d92409f5f6e7062f5236d51d9bdf90&scene=21#wechat_redirect
+关于分布式事务、两阶段提交协议、三阶提交协议 https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=402387528&idx=2&sn=f89ded5a927db3cdec0d006e1a261573&scene=21#wechat_redirect
+Java ClassLoader，到了该彻底理解它的时候了 https://mp.weixin.qq.com/s/i3js0txy8VCu5Dr3diKW_g
+并发数据结构的基石 https://mp.weixin.qq.com/s/Xx2FR-K0amZuHxDuHjt0sg
+深(浅)入(出)剖析G1（Garbage First） https://mp.weixin.qq.com/s/9UpGG2uhuEoAqi5fy_ovCw
+
+dump分析 JAVA CORE PostgreSql Docker ELK MQ SpringCloud 
+Redis懒惰删除的巨大牺牲 https://mp.weixin.qq.com/s/LevIAYMTsFYpuxCw_zeCDA
+
+Sharding-JDBC
+分库分表后如何部署上线 https://mp.weixin.qq.com/s/L_TvLNTaRPpXytlxAUlC9A
+分布式系统所有问题解决思路概括
+分布式一致性session
+分布式锁
+分布式事务
+分库分表中间件及部署
+分布式服务网关
+这可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/UZW5hRK0kF9hq0eeUw5ylA
+Java开发必须掌握的日志分析命令 https://mp.weixin.qq.com/s/KrZ1rOVhjNkgQwz9fkdJwQ
+阿里员工的Java问题排查工具单 https://mp.weixin.qq.com/s/Bpsz-9jvYl4PG8b6_TByDQ
+
+管理经验
+设计一个百万级的消息推送系统 https://mp.weixin.qq.com/s/lSBtKT6MgOHXivuJyRIH7Q
+
+
+软素质：沟通表达，总结复盘，好奇心，自驱力，学习能力，技术规划
+那你在做这个项目时有没有遇到什么困难，或者是觉得有挑战的地方？
+你们在关于微服务间数据一致性问题，是如何解决的？
+那在实践微服务架构中，有遇到什么问题么？
+线上FullGC卡顿性能优化、线上OOM内存溢出问题
+
+如何设计一个电商秒杀系统架构？
+如何设计一个消息推送系统架构？
+双11大促的时候如何设计系统的动态扩容/缩容的机制？
+
+
+
+两个链表判断是否相交，怎么找第一个相交点
+一道sql，一个表有学生，科目(每个学生的科目说不一定相等)，分数三个字段，找所有科目大于90分的学生
+开放题，服务器1上有40T的数据，服务器2上有一个任务需要这些数据，在网络带宽限制的情况下，怎么把数据快速传到服务器2上
+
+一道算法题，一个数组找连续子数组和为0的数组，并返回其中最大的长度
+这道题一开始用了贪心，但说最坏情况下复杂度太高，后来经过面试官提醒实现了一个O(n)时间复杂度
+
+9.TCP的拥塞控制，具体过程是怎么样的？UDP有拥塞控制吗？如何解决？
+
+1.LRU算法实现（伪代码）
+3.一堆螺丝和螺母用最短时间匹配（代码实现）
+5.求抖音小视频每日点击量最高的10个（Hash + 最大堆）
+
+
+
+Java 应用性能调优最强实践指南！ https://mp.weixin.qq.com/s/6p-2I07yFOWXgzEM7ew2OA
+美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
+最近面试java后端开发的感受  https://mp.weixin.qq.com/s/DReDw9hRVt1szb9CvmkiIw
+阿里，携程，小红书，美团，网易面试题 https://mp.weixin.qq.com/s/6lMoYvdKENL9mMPT_uTxRA
+阿里、拼多多面试经历分享 https://mp.weixin.qq.com/s/Oh43yuEIr5vG4BJ7Nr2s7w
+一份还热乎的蚂蚁金服面经 https://mp.weixin.qq.com/s/y-7HMPhUNHrLxfFLHdTkVw
+Java程序员从阿里面试回来，这些面试题你们会吗？ https://mp.weixin.qq.com/s/RlGT8Hmn5qJEnWDsn7sFog
+聊聊阿里面试的三个层次 https://mp.weixin.qq.com/s/Zowr1lBDoCmrt2oKKBLZWw
+美团超详细面经（附答案） https://mp.weixin.qq.com/s/055p6rutQd9zyyv_wG5jZg
+
+
+
+
+
+
+
+
+
+
+
